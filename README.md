@@ -1,0 +1,1 @@
+# de-mini-project-vgh-versicherungen-claims-operations
