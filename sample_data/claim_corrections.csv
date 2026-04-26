@@ -1,0 +1,4 @@
+claim_id,policy_id,customer_id,claim_type,claim_status,claim_amount,claim_date,reported_channel,region,handler_team,risk_category,settlement_flag,fraud_review_flag,last_updated_ts
+CL00015,PL8062,CU462,LIABILITY,APPROVED,6200.0,2026-04-06,ONLINE,HANNOVER,TEAM_B,MEDIUM,Y,N,2026-04-10 09:15:00
+CL00028,PL9785,CU439,AUTO,SETTLED,1500.0,2026-04-03,PHONE,GOETTINGEN,TEAM_A,LOW,Y,N,2026-04-10 10:45:00
+CL00250,PL5555,CU777,AUTO,OPEN,9400.0,2026-04-10,BRANCH,HANNOVER,TEAM_D,HIGH,N,Y,2026-04-10 12:00:00
